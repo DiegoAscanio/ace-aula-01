@@ -429,7 +429,7 @@ ${^2}$: Por ser ordenado, é que se chama corrente, como uma corrente! Como algo
 <div class="small" style="margin-left: 5%">
 
 <center>
-    <img src="https://i.gifer.com/Hlbd.gif" width=50%>
+    <img src="https://i.gifer.com/origin/4f/4fbf0aa4668fed0a3da0fcac958cc510_w200.gif" width=50%>
 </center>
 
 <center>
