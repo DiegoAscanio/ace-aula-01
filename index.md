@@ -972,7 +972,7 @@ $$
 ---
 ![bg opacity](./background.png)
 <div class="cabecalho large">
-Exercícios
+Exercícios (Entregar em 15/08/2023)
 </div>
 <div class="conteudo normal">
 
