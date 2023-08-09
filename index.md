@@ -986,6 +986,24 @@ Exercícios (Entregar em 15/08/2023)
 ---
 ![bg opacity](./background.png)
 <div class="cabecalho large">
+Gabarito da Lista
+</div>
+<div class="conteudo normal">
+
+1. Respostas
+    - $i(0) = -15nA$
+    - $i(0.01) = -0.7468nA$
+    - $i(\infty) = 0$
+2. $q (250 \times 10^{-3}) = 0.5326 C$
+3. $R_{60} = 22.82 \Omega$
+4. $I = 25.5 mA; P = 306.4 mW$
+5. $I = 53.5 A$
+
+</div>
+
+---
+![bg opacity](./background.png)
+<div class="cabecalho large">
 Referências Bibliográficas
 </div>
 <div class="conteudo normal">
