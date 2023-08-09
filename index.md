@@ -100,7 +100,7 @@
 
 ![bg opacity](./background.png)
 # Análise de Circuitos Elétricos
-## Aula 01 - Revisão Conceitual, Elementos de Circuitoss, Lei de Ohm e Potência Elétrica
+## Aula 01 - Revisão Conceitual, Elementos de Circuitos, Lei de Ohm e Potência Elétrica
 
 Prof. M.Sc. Diego Ascânio Santos (ascanio@cefetmg.br)
 
@@ -121,7 +121,7 @@ Aula 01 - Roteiro
 <div class="conteudo-absoluto">
 
 1. Revisão Conceitual
-2. Elementos de Circuitoss
+2. Elementos de Circuitos
 3. Lei de Ohm
 4. Potência Elétrica
 5. Referências Bibliográficas
@@ -452,7 +452,7 @@ $^{3}$: ver camadas de linus pauling.
 ---
 ![bg opacity](./background.png)
 <div class="cabecalho" style="font-size: 26px;">
-Elementos de Circuitoss - Corrente Elétrica
+Elementos de Circuitos - Corrente Elétrica
 </div>
 
 <div class="two-columns-66-33" style="top: 20%;">
