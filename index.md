@@ -991,8 +991,8 @@ Gabarito da Lista
 <div class="conteudo normal">
 
 1. Respostas
-    - $i(0) = -15nA$
-    - $i(0.01) = -0.7468nA$
+    - $i(0) = -15mA$
+    - $i(0.01) = -0.7468mA$
     - $i(\infty) = 0$
 2. $q (250 \times 10^{-3}) = 0.5326 C$
 3. $R_{60} = 22.82 \Omega$
